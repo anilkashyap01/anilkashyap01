@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Anil Kashyap 👋
 
-<!--
-**anilkashyap01/anilkashyap01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Enthusiast | Linux User | Penetration | Ethical Hacker
 
-Here are some ideas to get you started:
+> Learn. Build. Secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+```bash
+┌──(anil㉿kali)-[~/cybersecurity]
+└─$ whoami
+Anil Kashyap
+
+┌──(anil㉿kali)-[~/skills]
+└─$ ls
+
+python
+bash
+linux
+networking
+active-directory
+web-security
+
+┌──(anil㉿kali)-[~/status]
+└─$ echo "Learn. Build. Secure."
+```
+
+---
+
+## Skills
+
+- Linux
+- Bash
+- Python
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Active Directory
+- Network Security
+- Penetration Testing
+
+---
+
+## Projects
+
+- AiPS
+- Active Directory Home Lab
+
+---
+
+## Certifications
+
+- Cisco Ethical Hacker Certificate
+- Amroha Police Cybersecurity Internship Certificate
+
+---
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/anilkashyap01
+
+---
+
+## Motto
+
+> Learn • Build • Secure
