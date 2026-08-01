@@ -60,7 +60,7 @@ web-security
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/in/anilkashyap01/
 - GitHub: https://github.com/anilkashyap01
 
 ---
