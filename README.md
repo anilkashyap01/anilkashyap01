@@ -1,6 +1,6 @@
 # Hi, I'm Anil Kashyap 👋
 
-Cybersecurity Enthusiast | Linux User | Penetration | Ethical Hacker
+Cybersecurity Enthusiast | Kali Linux | Penetration Tester | Ethical Hacker
 
 > Learn. Build. Secure.
 
