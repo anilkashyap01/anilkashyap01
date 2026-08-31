@@ -26,7 +26,7 @@ B.Sc. graduate and cybersecurity researcher with hands-on experience in penetrat
 
 ### 🚩 Featured Projects
 
-**🔴 [AiPS — Python Intrusion Prevention System](https://github.com/anilkashyap01/AiPS)** *(flagship project)*
+**🔴 [AiPS — Python Intrusion Prevention System](https://github.com/anilkashyap01/AiPS)** *(flagship project — completed & tested)*
 Modular capture → detection → prevention pipeline modeled on enterprise platforms like Palo Alto. Scapy for packet capture, iptables/NFQUEUE for inline blocking, 14 signature rules plus anomaly detection (port scans, SYN floods, brute force, ARP spoofing, DNS tunneling), AbuseIPDB threat-intel integration, and a Flask + Socket.IO dashboard with RBAC — backed by a 60-test suite across 7 files.
 
 **🔴 [Binary Exploitation & Kernel Escalation](https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation)**
